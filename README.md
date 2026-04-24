@@ -1,6 +1,6 @@
 # Devoxx Greece 2026 - Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI
 
-Welcome to the landing page for the session `Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI` at the `Devoxx Greece 2026`.
+Welcome to the landing page for the session `Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI` at `Devoxx Greece 2026`.
 
 ## What to Expect
 
